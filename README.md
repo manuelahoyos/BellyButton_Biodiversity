@@ -9,7 +9,7 @@ The dataset was obtained from a study that catalogs the microbes that colonize h
 
 
 ## Workflow:
-In the app.js file, JavaScript was used to determine the OTU ID and amount found in each individual's navel. D3 was used for animations, click events, and to create a table that displays demographic information for each individual. CSS was used for styling and Plotly was used to visualize the results in two graphs. The individual ID can be selected to display that individuals information in the table and graphs.
+In the app.js file, JavaScript read the son file and determine the OTU ID and amount found in each individual's navel. D3 was used for animations, click events, and to create a table that displays demographic information for each individual. CSS was used for styling and Plotly was used to visualize the results in two graphs. The individual ID can be selected to display that individuals information in the table and graphs.
 
 
 ## Graphs:
