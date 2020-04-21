@@ -13,7 +13,8 @@ Datasets
 General workflow
 
 
-Questions/conclusions
+
+![Image description](images/chartPlotly.png)
 
 
-
+![Image description](images/BubblegraphPlotly.png)
