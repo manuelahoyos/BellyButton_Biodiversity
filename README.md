@@ -5,13 +5,11 @@ In this assignment, the microbial diversity that inhabit belly buttons was analy
 
 
 ## Datasets:
-The dataset was obtained from a study that catalogs the microbes that colonize human navels. The study characterizes the microbial species (also called operational taxonomic units, or OTUs) that were present in more than 70% of people.
+The dataset was obtained from a study that catalogs the microbes that colonize human navels. The study characterizes the microbial species (also called operational taxonomic units, or OTUs) that were present in more than 70% of people. Each bacterial culture is classified by an OTU ID. OTU, or operational taxonomic units, are used to identify groups of bacteria with similar genetic sequences. The dataset contains the OTU ID, the individuals' ID, and metadata displaying each individual's demographic information.
 
 
 ## Workflow:
-
-Each bacterial culture is classified by an OTU ID. OTU, or operational taxonomic units, are used to identify groups of bacteria with similar genetic sequences. 
-
+In the app.js file, JavaScript was used to determine the OTU ID and amount found in each individual's navel. Plotly was used to visualize the results in two graphs, and a table that displays demographic information for each individual.
 
 
 ## Graphs:
