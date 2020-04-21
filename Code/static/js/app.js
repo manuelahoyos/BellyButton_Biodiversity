@@ -14,7 +14,6 @@ function buildMetadata(sample) {
       Object.entries(result).forEach(([key, value]) => {
           panel.append('h6').text(`${key}: ${value}`);
         })
-
       })
 }
 
