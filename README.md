@@ -7,12 +7,14 @@ In this assignment, the microbial diversity that inhabit belly buttons was analy
 
 
 
-Datasets
+## Datasets:
 
 
-General workflow
+## Workflow:
 
 
+
+## Graphs:
 
 ![Image description](images/chartPlotly.png)
 
