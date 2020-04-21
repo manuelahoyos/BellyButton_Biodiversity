@@ -4,8 +4,8 @@
 In this assignment, the microbial diversity that inhabit belly buttons was analyzed. Anteractive dashboard was created to visualize Belly Button Biodiversity using JavaScript and Plotly.
 
 
-
 ## Datasets:
+The dataset is obtained from a study that catalogs the microbes that colonize human navels. The study characterizes the microbial species (also called operational taxonomic units, or OTUs) that were present in more than 70% of people.
 
 
 ## Workflow:
