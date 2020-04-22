@@ -15,8 +15,8 @@ In the app.js file, JavaScript was used to read the json file and determine the 
 ## Graphs:
 For each test subject, the top 10 bacterial cultures found in their navel are displayed in the bar graph. 
 
-![Image description](images/chartPlotly.png)
+<img src="images/chartPlotly.png" width="600">
 
 The bubble graph displays the top 10 bacterial cultures, but the marker size is determined by the amount of that bacterial culture compared to the other bacterial cultures found in that individual's navel.
 
-![Image description](images/BubblegraphPlotly.png)
+<img src="images/BubblegraphPlotly.png" width="600">
