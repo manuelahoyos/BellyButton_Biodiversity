@@ -2,7 +2,7 @@
 
 ## Overview:
 
-In this assignment, the microbial diversity that inhabit belly buttons was analyzed. An interactive dashboard was created to visualize Belly Button Biodiversity using JavaScript, D3 and Plotly.
+In this assignment, the microbial diversity that inhabit belly buttons was analyzed. An interactive dashboard was created to visualize belly button biodiversity using JavaScript, D3 and Plotly.
 
 
 ## Datasets:
